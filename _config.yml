@@ -2,8 +2,8 @@
 title: meuse
 timezone: America/New_York
 
-url: "/Meuse"
-baseurl: "https://jameswquinn.github.io"
+baseurl: "/Meuse"
+url: "https://jameswquinn.github.io"
 description: Built for developers, Loved by everyone. Supports Jekyll, user collaboration,
   publishing to AWS S3, GitHub Pages, FTP, and more.
   
