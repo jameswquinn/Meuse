@@ -1,0 +1,13 @@
+header:
+- title: home
+  url: /
+- title: about
+  url: /about/
+- title: services
+  url: /services/
+- title: portfolio
+  url: /portfolio/
+- title: contact
+  url: /contact/
+- title: blog
+  url: /blog/
